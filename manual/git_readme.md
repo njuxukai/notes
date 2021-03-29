@@ -89,3 +89,10 @@ error: pathspec 'origin/XXX' did not match any file(s) known to git.
 ————————————————
 版权声明：本文为CSDN博主「DinnerHowe」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/DinnerHowe/article/details/79082769
+
+# 修改github链接加密码
+
+```shell
+git remote set-url origin "https://njuxukai:xlzc1234xlzc1234@github.com/njuxukai/malva3.git
+```
+
